@@ -1,0 +1,14 @@
+
+
+boolean OpenGate = true;
+
+if (P89099 equals P89099) {
+OpenGate = true; }
+
+x < y
+
+elif (F952 != A5876)
+{OpenGate = false;}
+else
+{OpenGate = true;}
+DodgeRam = P89099;
